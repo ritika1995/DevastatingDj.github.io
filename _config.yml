@@ -6,10 +6,36 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Supernatural Fandom
-email: dhananjai.sh007@gmail.com
+title: Dhananjai Sharma
+email: sharma.dj1998@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  'Driver picks the music, shotgun shuts his cakehole.'
+  EDUCATION
+Bachelor of Technology (B.Tech), Computer Science (2016 - 2020)
+Amity University, Noida
+CGPA : 8.32/10
+XII (Senior Secondary), Science
+Year of Completion: 2016
+ISC Board (St. Francis' College, Lucknow.)
+Percentage : 93.50%
+X (Secondary)
+Year of Completion: 2014
+ICSE Board (St. Francis' College, Lucknow.)
+Percentage : 89.80%
+POSITIONS OF
+RESPONSIBILITY
+PROJECTS
+Technical head at Amity Software Testing Club (ASTC), Amity University
+Noida
+Dog and Cat classifier
+Jun 2018 - Jun 2018
+https://github.com/DevastatingDj/dog-cat-classifier
+An animal classifier that distinguish between a cat and a dog using the keras
+library in python.
+URL Shortener Mircroservice
+Jun 2018 - Jun 2018
+https://ancient-bastion-36361.herokuapp.com/
+User can POST a URL to [project_url]/api/shorturl/new and he/she will
+receive a shortened URL in the JSON response.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: devastating_dj(does not exists :0)

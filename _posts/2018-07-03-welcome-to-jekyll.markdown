@@ -1,25 +1,36 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hi There!"
 date:   2018-07-03 18:52:52 +0000
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
+EDUCATION
+Bachelor of Technology (B.Tech), Computer Science (2016 - 2020)
+Amity University, Noida
+CGPA : 8.32/10
+XII (Senior Secondary), Science
+Year of Completion: 2016
+ISC Board (St. Francis' College, Lucknow.)
+Percentage : 93.50%
+X (Secondary)
+Year of Completion: 2014
+ICSE Board (St. Francis' College, Lucknow.)
+Percentage : 89.80%
+POSITIONS OF
+RESPONSIBILITY
+Technical head at Amity Software Testing Club (ASTC), Amity University
+Noida
+PROJECTS
+Dog and Cat classifier
+Jun 2018 - Jun 2018
+https://github.com/DevastatingDj/dog-cat-classifier
+An animal classifier that distinguish between a cat and a dog using the keras
+library in python.
+URL Shortener Mircroservice
+Jun 2018 - Jun 2018
+https://ancient-bastion-36361.herokuapp.com/
+User can POST a URL to [project_url]/api/shorturl/new and he/she will
+receive a shortened URL in the JSON response.
+Example : {"original_url":"www.google.com","short_ur
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
